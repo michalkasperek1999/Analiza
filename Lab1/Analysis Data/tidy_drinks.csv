@@ -1,0 +1,580 @@
+country,servings,freq
+Afghanistan,beer_servings,0
+Afghanistan,spirit_servings,0
+Afghanistan,wine_servings,0
+Albania,beer_servings,89
+Albania,spirit_servings,132
+Albania,wine_servings,54
+Algeria,beer_servings,25
+Algeria,spirit_servings,0
+Algeria,wine_servings,14
+Andorra,spirit_servings,138
+Andorra,wine_servings,312
+Andorra,beer_servings,245
+Angola,wine_servings,45
+Angola,beer_servings,217
+Angola,spirit_servings,57
+Antigua & Barbuda,wine_servings,45
+Antigua & Barbuda,beer_servings,102
+Antigua & Barbuda,spirit_servings,128
+Argentina,wine_servings,221
+Argentina,spirit_servings,25
+Argentina,beer_servings,193
+Armenia,spirit_servings,179
+Armenia,wine_servings,11
+Armenia,beer_servings,21
+Australia,spirit_servings,72
+Australia,wine_servings,212
+Australia,beer_servings,261
+Austria,wine_servings,191
+Austria,beer_servings,279
+Austria,spirit_servings,75
+Azerbaijan,beer_servings,21
+Azerbaijan,spirit_servings,46
+Azerbaijan,wine_servings,5
+Bahamas,beer_servings,122
+Bahamas,spirit_servings,176
+Bahamas,wine_servings,51
+Bahrain,spirit_servings,63
+Bahrain,wine_servings,7
+Bahrain,beer_servings,42
+Bangladesh,wine_servings,0
+Bangladesh,beer_servings,0
+Bangladesh,spirit_servings,0
+Barbados,wine_servings,36
+Barbados,beer_servings,143
+Barbados,spirit_servings,173
+Belarus,beer_servings,142
+Belarus,spirit_servings,373
+Belarus,wine_servings,42
+Belgium,spirit_servings,84
+Belgium,wine_servings,212
+Belgium,beer_servings,295
+Belize,spirit_servings,114
+Belize,wine_servings,8
+Belize,beer_servings,263
+Benin,spirit_servings,4
+Benin,beer_servings,34
+Benin,wine_servings,13
+Bhutan,beer_servings,23
+Bhutan,spirit_servings,0
+Bhutan,wine_servings,0
+Bolivia,beer_servings,167
+Bolivia,spirit_servings,41
+Bolivia,wine_servings,8
+Bosnia-Herzegovina,spirit_servings,173
+Bosnia-Herzegovina,wine_servings,8
+Bosnia-Herzegovina,beer_servings,76
+Botswana,wine_servings,35
+Botswana,beer_servings,173
+Botswana,spirit_servings,35
+Brazil,wine_servings,16
+Brazil,beer_servings,245
+Brazil,spirit_servings,145
+Brunei,wine_servings,1
+Brunei,spirit_servings,2
+Brunei,beer_servings,31
+Bulgaria,spirit_servings,252
+Bulgaria,wine_servings,94
+Bulgaria,beer_servings,231
+Burkina Faso,spirit_servings,7
+Burkina Faso,wine_servings,7
+Burkina Faso,beer_servings,25
+Burundi,wine_servings,0
+Burundi,beer_servings,88
+Burundi,spirit_servings,0
+Cabo Verde,beer_servings,144
+Cabo Verde,spirit_servings,56
+Cabo Verde,wine_servings,16
+Cambodia,beer_servings,57
+Cambodia,spirit_servings,65
+Cambodia,wine_servings,1
+Cameroon,beer_servings,147
+Cameroon,wine_servings,4
+Cameroon,spirit_servings,1
+Canada,wine_servings,100
+Canada,spirit_servings,122
+Canada,beer_servings,240
+Central African Republic,wine_servings,1
+Central African Republic,spirit_servings,2
+Central African Republic,beer_servings,17
+Chad,wine_servings,1
+Chad,spirit_servings,1
+Chad,beer_servings,15
+Chile,wine_servings,172
+Chile,spirit_servings,124
+Chile,beer_servings,130
+China,wine_servings,8
+China,beer_servings,79
+China,spirit_servings,192
+Colombia,wine_servings,3
+Colombia,beer_servings,159
+Colombia,spirit_servings,76
+Comoros,spirit_servings,3
+Comoros,wine_servings,1
+Comoros,beer_servings,1
+Congo,spirit_servings,1
+Congo,wine_servings,9
+Congo,beer_servings,76
+Cook Islands,wine_servings,74
+Cook Islands,beer_servings,0
+Cook Islands,spirit_servings,254
+Costa Rica,spirit_servings,87
+Costa Rica,beer_servings,149
+Costa Rica,wine_servings,11
+Cote d'Ivoire,spirit_servings,1
+Cote d'Ivoire,wine_servings,7
+Cote d'Ivoire,beer_servings,37
+Croatia,spirit_servings,87
+Croatia,wine_servings,254
+Croatia,beer_servings,230
+Cuba,wine_servings,5
+Cuba,beer_servings,93
+Cuba,spirit_servings,137
+Cyprus,spirit_servings,154
+Cyprus,wine_servings,113
+Cyprus,beer_servings,192
+Czech Republic,wine_servings,134
+Czech Republic,beer_servings,361
+Czech Republic,spirit_servings,170
+DR Congo,beer_servings,32
+DR Congo,spirit_servings,3
+DR Congo,wine_servings,1
+Denmark,wine_servings,278
+Denmark,beer_servings,224
+Denmark,spirit_servings,81
+Djibouti,spirit_servings,44
+Djibouti,wine_servings,3
+Djibouti,beer_servings,15
+Dominica,wine_servings,26
+Dominica,beer_servings,52
+Dominica,spirit_servings,286
+Dominican Republic,wine_servings,9
+Dominican Republic,beer_servings,193
+Dominican Republic,spirit_servings,147
+Ecuador,wine_servings,3
+Ecuador,beer_servings,162
+Ecuador,spirit_servings,74
+Egypt,beer_servings,6
+Egypt,spirit_servings,4
+Egypt,wine_servings,1
+El Salvador,spirit_servings,69
+El Salvador,wine_servings,2
+El Salvador,beer_servings,52
+Equatorial Guinea,spirit_servings,0
+Equatorial Guinea,wine_servings,233
+Equatorial Guinea,beer_servings,92
+Eritrea,spirit_servings,0
+Eritrea,beer_servings,18
+Eritrea,wine_servings,0
+Estonia,beer_servings,224
+Estonia,spirit_servings,194
+Estonia,wine_servings,59
+Ethiopia,beer_servings,20
+Ethiopia,spirit_servings,3
+Ethiopia,wine_servings,0
+Fiji,spirit_servings,35
+Fiji,wine_servings,1
+Fiji,beer_servings,77
+Finland,wine_servings,97
+Finland,beer_servings,263
+Finland,spirit_servings,133
+France,wine_servings,370
+France,beer_servings,127
+France,spirit_servings,151
+Gabon,beer_servings,347
+Gabon,spirit_servings,98
+Gabon,wine_servings,59
+Gambia,spirit_servings,0
+Gambia,wine_servings,1
+Gambia,beer_servings,8
+Georgia,spirit_servings,100
+Georgia,wine_servings,149
+Georgia,beer_servings,52
+Germany,wine_servings,175
+Germany,beer_servings,346
+Germany,spirit_servings,117
+Ghana,beer_servings,31
+Ghana,spirit_servings,3
+Ghana,wine_servings,10
+Greece,beer_servings,133
+Greece,spirit_servings,112
+Greece,wine_servings,218
+Grenada,beer_servings,199
+Grenada,wine_servings,28
+Grenada,spirit_servings,438
+Guatemala,wine_servings,2
+Guatemala,beer_servings,53
+Guatemala,spirit_servings,69
+Guinea,spirit_servings,0
+Guinea,beer_servings,9
+Guinea,wine_servings,2
+Guinea-Bissau,beer_servings,28
+Guinea-Bissau,wine_servings,21
+Guinea-Bissau,spirit_servings,31
+Guyana,spirit_servings,302
+Guyana,wine_servings,1
+Guyana,beer_servings,93
+Haiti,spirit_servings,326
+Haiti,wine_servings,1
+Haiti,beer_servings,1
+Honduras,spirit_servings,98
+Honduras,beer_servings,69
+Honduras,wine_servings,2
+Hungary,beer_servings,234
+Hungary,spirit_servings,215
+Hungary,wine_servings,185
+Iceland,spirit_servings,61
+Iceland,wine_servings,78
+Iceland,beer_servings,233
+India,wine_servings,0
+India,beer_servings,9
+India,spirit_servings,114
+Indonesia,wine_servings,0
+Indonesia,beer_servings,5
+Indonesia,spirit_servings,1
+Iran,spirit_servings,0
+Iran,beer_servings,0
+Iran,wine_servings,0
+Iraq,spirit_servings,3
+Iraq,wine_servings,0
+Iraq,beer_servings,9
+Ireland,spirit_servings,118
+Ireland,wine_servings,165
+Ireland,beer_servings,313
+Israel,spirit_servings,69
+Israel,wine_servings,9
+Israel,beer_servings,63
+Italy,wine_servings,237
+Italy,spirit_servings,42
+Italy,beer_servings,85
+Jamaica,beer_servings,82
+Jamaica,spirit_servings,97
+Jamaica,wine_servings,9
+Japan,beer_servings,77
+Japan,wine_servings,16
+Japan,spirit_servings,202
+Jordan,wine_servings,1
+Jordan,spirit_servings,21
+Jordan,beer_servings,6
+Kazakhstan,beer_servings,124
+Kazakhstan,spirit_servings,246
+Kazakhstan,wine_servings,12
+Kenya,spirit_servings,22
+Kenya,wine_servings,2
+Kenya,beer_servings,58
+Kiribati,wine_servings,1
+Kiribati,spirit_servings,34
+Kiribati,beer_servings,21
+Kuwait,wine_servings,0
+Kuwait,spirit_servings,0
+Kuwait,beer_servings,0
+Kyrgyzstan,wine_servings,6
+Kyrgyzstan,beer_servings,31
+Kyrgyzstan,spirit_servings,97
+Laos,beer_servings,62
+Laos,spirit_servings,0
+Laos,wine_servings,123
+Latvia,beer_servings,281
+Latvia,spirit_servings,216
+Latvia,wine_servings,62
+Lebanon,spirit_servings,55
+Lebanon,wine_servings,31
+Lebanon,beer_servings,20
+Lesotho,beer_servings,82
+Lesotho,wine_servings,0
+Lesotho,spirit_servings,29
+Liberia,wine_servings,2
+Liberia,spirit_servings,152
+Liberia,beer_servings,19
+Libya,spirit_servings,0
+Libya,beer_servings,0
+Libya,wine_servings,0
+Lithuania,wine_servings,56
+Lithuania,spirit_servings,244
+Lithuania,beer_servings,343
+Luxembourg,wine_servings,271
+Luxembourg,spirit_servings,133
+Luxembourg,beer_servings,236
+Macedonia,wine_servings,86
+Macedonia,beer_servings,106
+Macedonia,spirit_servings,27
+Madagascar,beer_servings,26
+Madagascar,wine_servings,4
+Madagascar,spirit_servings,15
+Malawi,spirit_servings,11
+Malawi,beer_servings,8
+Malawi,wine_servings,1
+Malaysia,wine_servings,0
+Malaysia,spirit_servings,4
+Malaysia,beer_servings,13
+Maldives,spirit_servings,0
+Maldives,wine_servings,0
+Maldives,beer_servings,0
+Mali,beer_servings,5
+Mali,wine_servings,1
+Mali,spirit_servings,1
+Malta,spirit_servings,100
+Malta,wine_servings,120
+Malta,beer_servings,149
+Marshall Islands,wine_servings,0
+Marshall Islands,beer_servings,0
+Marshall Islands,spirit_servings,0
+Mauritania,wine_servings,0
+Mauritania,beer_servings,0
+Mauritania,spirit_servings,0
+Mauritius,beer_servings,98
+Mauritius,wine_servings,18
+Mauritius,spirit_servings,31
+Mexico,wine_servings,5
+Mexico,beer_servings,238
+Mexico,spirit_servings,68
+Micronesia,wine_servings,18
+Micronesia,spirit_servings,50
+Micronesia,beer_servings,62
+Moldova,wine_servings,18
+Moldova,spirit_servings,226
+Moldova,beer_servings,109
+Monaco,wine_servings,0
+Monaco,spirit_servings,0
+Monaco,beer_servings,0
+Mongolia,beer_servings,77
+Mongolia,wine_servings,8
+Mongolia,spirit_servings,189
+Montenegro,wine_servings,128
+Montenegro,beer_servings,31
+Montenegro,spirit_servings,114
+Morocco,beer_servings,12
+Morocco,spirit_servings,6
+Morocco,wine_servings,10
+Mozambique,beer_servings,47
+Mozambique,wine_servings,5
+Mozambique,spirit_servings,18
+Myanmar,wine_servings,0
+Myanmar,spirit_servings,1
+Myanmar,beer_servings,5
+Namibia,beer_servings,376
+Namibia,wine_servings,1
+Namibia,spirit_servings,3
+Nauru,wine_servings,8
+Nauru,spirit_servings,0
+Nauru,beer_servings,49
+Nepal,spirit_servings,6
+Nepal,wine_servings,0
+Nepal,beer_servings,5
+Netherlands,spirit_servings,88
+Netherlands,wine_servings,190
+Netherlands,beer_servings,251
+New Zealand,wine_servings,175
+New Zealand,spirit_servings,79
+New Zealand,beer_servings,203
+Nicaragua,beer_servings,78
+Nicaragua,spirit_servings,118
+Nicaragua,wine_servings,1
+Niger,beer_servings,3
+Niger,spirit_servings,2
+Niger,wine_servings,1
+Nigeria,beer_servings,42
+Nigeria,spirit_servings,5
+Nigeria,wine_servings,2
+Niue,wine_servings,7
+Niue,beer_servings,188
+Niue,spirit_servings,200
+North Korea,beer_servings,0
+North Korea,spirit_servings,0
+North Korea,wine_servings,0
+Norway,spirit_servings,71
+Norway,wine_servings,129
+Norway,beer_servings,169
+Oman,wine_servings,1
+Oman,spirit_servings,16
+Oman,beer_servings,22
+Pakistan,wine_servings,0
+Pakistan,spirit_servings,0
+Pakistan,beer_servings,0
+Palau,wine_servings,23
+Palau,beer_servings,306
+Palau,spirit_servings,63
+Panama,spirit_servings,104
+Panama,beer_servings,285
+Panama,wine_servings,18
+Papua New Guinea,spirit_servings,39
+Papua New Guinea,beer_servings,44
+Papua New Guinea,wine_servings,1
+Paraguay,wine_servings,74
+Paraguay,beer_servings,213
+Paraguay,spirit_servings,117
+Peru,spirit_servings,160
+Peru,beer_servings,163
+Peru,wine_servings,21
+Philippines,wine_servings,1
+Philippines,spirit_servings,186
+Philippines,beer_servings,71
+Poland,wine_servings,56
+Poland,spirit_servings,215
+Poland,beer_servings,343
+Portugal,spirit_servings,67
+Portugal,beer_servings,194
+Portugal,wine_servings,339
+Qatar,wine_servings,7
+Qatar,spirit_servings,42
+Qatar,beer_servings,1
+Romania,beer_servings,297
+Romania,wine_servings,167
+Romania,spirit_servings,122
+Russian Federation,wine_servings,73
+Russian Federation,spirit_servings,326
+Russian Federation,beer_servings,247
+Rwanda,spirit_servings,2
+Rwanda,wine_servings,0
+Rwanda,beer_servings,43
+Samoa,beer_servings,105
+Samoa,spirit_servings,18
+Samoa,wine_servings,24
+San Marino,beer_servings,0
+San Marino,spirit_servings,0
+San Marino,wine_servings,0
+Sao Tome & Principe,wine_servings,140
+Sao Tome & Principe,spirit_servings,38
+Sao Tome & Principe,beer_servings,56
+Saudi Arabia,beer_servings,0
+Saudi Arabia,wine_servings,0
+Saudi Arabia,spirit_servings,5
+Senegal,wine_servings,7
+Senegal,spirit_servings,1
+Senegal,beer_servings,9
+Serbia,beer_servings,283
+Serbia,wine_servings,127
+Serbia,spirit_servings,131
+Seychelles,wine_servings,51
+Seychelles,beer_servings,157
+Seychelles,spirit_servings,25
+Sierra Leone,spirit_servings,3
+Sierra Leone,wine_servings,2
+Sierra Leone,beer_servings,25
+Singapore,wine_servings,11
+Singapore,beer_servings,60
+Singapore,spirit_servings,12
+Slovakia,wine_servings,116
+Slovakia,beer_servings,196
+Slovakia,spirit_servings,293
+Slovenia,spirit_servings,51
+Slovenia,beer_servings,270
+Slovenia,wine_servings,276
+Solomon Islands,spirit_servings,11
+Solomon Islands,beer_servings,56
+Solomon Islands,wine_servings,1
+Somalia,beer_servings,0
+Somalia,wine_servings,0
+Somalia,spirit_servings,0
+South Africa,wine_servings,81
+South Africa,beer_servings,225
+South Africa,spirit_servings,76
+South Korea,spirit_servings,16
+South Korea,beer_servings,140
+South Korea,wine_servings,9
+Spain,beer_servings,284
+Spain,wine_servings,112
+Spain,spirit_servings,157
+Sri Lanka,wine_servings,0
+Sri Lanka,spirit_servings,104
+Sri Lanka,beer_servings,16
+St. Kitts & Nevis,beer_servings,194
+St. Kitts & Nevis,wine_servings,32
+St. Kitts & Nevis,spirit_servings,205
+St. Lucia,wine_servings,71
+St. Lucia,spirit_servings,315
+St. Lucia,beer_servings,171
+St. Vincent & the Grenadines,wine_servings,11
+St. Vincent & the Grenadines,beer_servings,120
+St. Vincent & the Grenadines,spirit_servings,221
+Sudan,beer_servings,8
+Sudan,wine_servings,0
+Sudan,spirit_servings,13
+Suriname,beer_servings,128
+Suriname,wine_servings,7
+Suriname,spirit_servings,178
+Swaziland,beer_servings,90
+Swaziland,wine_servings,2
+Swaziland,spirit_servings,2
+Sweden,wine_servings,186
+Sweden,spirit_servings,60
+Sweden,beer_servings,152
+Switzerland,beer_servings,185
+Switzerland,wine_servings,280
+Switzerland,spirit_servings,100
+Syria,spirit_servings,35
+Syria,beer_servings,5
+Syria,wine_servings,16
+Tajikistan,wine_servings,0
+Tajikistan,spirit_servings,15
+Tajikistan,beer_servings,2
+Tanzania,spirit_servings,6
+Tanzania,wine_servings,1
+Tanzania,beer_servings,36
+Thailand,spirit_servings,258
+Thailand,wine_servings,1
+Thailand,beer_servings,99
+Timor-Leste,wine_servings,4
+Timor-Leste,spirit_servings,1
+Timor-Leste,beer_servings,1
+Togo,wine_servings,19
+Togo,spirit_servings,2
+Togo,beer_servings,36
+Tonga,wine_servings,5
+Tonga,spirit_servings,21
+Tonga,beer_servings,36
+Trinidad & Tobago,beer_servings,197
+Trinidad & Tobago,wine_servings,7
+Trinidad & Tobago,spirit_servings,156
+Tunisia,beer_servings,51
+Tunisia,wine_servings,20
+Tunisia,spirit_servings,3
+Turkey,beer_servings,51
+Turkey,wine_servings,7
+Turkey,spirit_servings,22
+Turkmenistan,wine_servings,32
+Turkmenistan,spirit_servings,71
+Turkmenistan,beer_servings,19
+Tuvalu,spirit_servings,41
+Tuvalu,beer_servings,6
+Tuvalu,wine_servings,9
+USA,wine_servings,84
+USA,beer_servings,249
+USA,spirit_servings,158
+Uganda,wine_servings,0
+Uganda,beer_servings,45
+Uganda,spirit_servings,9
+Ukraine,beer_servings,206
+Ukraine,wine_servings,45
+Ukraine,spirit_servings,237
+United Arab Emirates,beer_servings,16
+United Arab Emirates,spirit_servings,135
+United Arab Emirates,wine_servings,5
+United Kingdom,beer_servings,219
+United Kingdom,wine_servings,195
+United Kingdom,spirit_servings,126
+Uruguay,wine_servings,220
+Uruguay,beer_servings,115
+Uruguay,spirit_servings,35
+Uzbekistan,wine_servings,8
+Uzbekistan,beer_servings,25
+Uzbekistan,spirit_servings,101
+Vanuatu,beer_servings,21
+Vanuatu,spirit_servings,18
+Vanuatu,wine_servings,11
+Venezuela,wine_servings,3
+Venezuela,beer_servings,333
+Venezuela,spirit_servings,100
+Vietnam,beer_servings,111
+Vietnam,spirit_servings,2
+Vietnam,wine_servings,1
+Yemen,beer_servings,6
+Yemen,wine_servings,0
+Yemen,spirit_servings,0
+Zambia,spirit_servings,19
+Zambia,wine_servings,4
+Zambia,beer_servings,32
+Zimbabwe,beer_servings,64
+Zimbabwe,spirit_servings,18
+Zimbabwe,wine_servings,4

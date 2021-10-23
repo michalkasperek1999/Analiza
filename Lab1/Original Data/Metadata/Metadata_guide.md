@@ -13,3 +13,8 @@ Data after analysis is available in:
 ** beer_servings - number of beer servings in a country.
 *** wine_servings - number of wine servings in a country 
 **** spirit_servings - number of spirit servings in a country.
+
+* /AnalysisData/tidy_drinks.csv - file contains tidy data from drinks.csv:
+** country - list of servings in country.
+** servings - type of beverage servings in a country.
+*** freq -  quantity of servings 
